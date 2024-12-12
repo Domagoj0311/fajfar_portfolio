@@ -1,5 +1,5 @@
 # Fajfar's Porfolio
-# This will be my main repository where i will be adding all my upcoming projects.
+# This will be my main repository where i will be adding all the upcoming projects.
 
 ## Project 1. Sales dashboard made in Tableau
 
