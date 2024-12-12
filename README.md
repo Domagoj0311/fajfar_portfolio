@@ -7,4 +7,4 @@ This is my first project that I have made in Tableau. Using 4 .csv files I have 
 The project itself contains 7 sheets (KPI Sheets, Subcategory and Weekly Trends) and 1 dashboard where i visualized all the charts that I've made.
 It is also possible to filter these charts by Categories and Location. Using the Select Year Parameter you can switch between the years.
 
-![Preview:]([images/Sales Dashboard.png](https://github.com/Domagoj0311/fajfar_portfolio/blob/main/images/Sales%20Dashboard.png?raw=true))
+![Preview:](https://github.com/Domagoj0311/fajfar_portfolio/blob/main/images/Sales%20Dashboard.png?raw=true)
